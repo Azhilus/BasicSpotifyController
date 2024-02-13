@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/basicspotifycontroller/static/css/main.f855e6bc.css",
+    "main.js": "/basicspotifycontroller/static/js/main.7407b52d.js",
+    "index.html": "/basicspotifycontroller/index.html",
+    "main.f855e6bc.css.map": "/basicspotifycontroller/static/css/main.f855e6bc.css.map",
+    "main.7407b52d.js.map": "/basicspotifycontroller/static/js/main.7407b52d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7407b52d.js"
+  ]
+}
