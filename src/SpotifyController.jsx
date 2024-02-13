@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 const CLIENT_ID = '56992cf24e7043a4ae32d4adca88c3e3';
-const REDIRECT_URI = 'https://spoticon.onrender.com/';
+const REDIRECT_URI = 'https://azhilus.github.io/BasicSpotifyController/';
 const SPOTIFY_API_BASE_URL = 'https://api.spotify.com/v1';
 
 const SpotifyController = () => {
